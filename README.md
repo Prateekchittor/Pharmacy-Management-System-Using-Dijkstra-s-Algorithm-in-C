@@ -18,4 +18,4 @@ It is designed to help users with tasks like ordering medicines, locating nearby
 
 
 
-
+![image alt](https://github.com/Prateekchittor/Pharmacy-Management-System-Using-Dijkstra-s-Algorithm-in-C/blob/main/Screenshot%202025-06-05%20202508.png?raw=true)
